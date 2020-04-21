@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MCR</string>
+
+    <!--Wizard-->
+    <string name="w_pular">Pular</string>
+    <string name="w_proximo">Proximo</string>
+    <string name="w_anterior">Anterior</string>
+    <string name="w_terminar">Terminar</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
